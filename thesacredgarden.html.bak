@@ -357,7 +357,7 @@
                             </audio>
                             <!-- Envelope overlay -->
                             <div id="weiOverlay">
-                                <img id="weiImg" src="https://res.cloudinary.com/ukb8xb7m/image/upload/v1787037630/ChatGPT_Image_Jun_23_2026_04_40_29_PM_4_piptqn.png" alt="Open your invitation" draggable="false">
+                                <img id="weiImg" src="images/MYwax.jpg" alt="Open your invitation" draggable="false">
                                 <div id="weiTapWrap">
                                     <div class="wei-chevron"></div>
                                     <div id="weiTapLabel">Tap to open</div>
